@@ -1,0 +1,4 @@
+basetheme
+=========
+
+GWS Base Theme
